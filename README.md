@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jasminevasandani/jasminevasandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hey, I'm Jasmine (she/they)! I'm a data manager and design strategist. I love building and managing collaborative and tight-knit teams, working on data science side projects, and playing with strategic design tools.  
 
  - **My Data Science Projects**:
