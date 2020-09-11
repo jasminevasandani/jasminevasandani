@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, I'm Jasmine (she/they)! I'm a data manager and design strategist. I love building and managing collaborative and tight-knit teams, working on data science side projects, and playing with strategic design tools.  
+Hey, I'm Jasmine (she/they)! I'm a data manager and design strategist. I love building and managing collaborative and tight-knit teams, working on data science projects, and playing with strategic design tools.  
 
  - **My Data Science Projects**:
    - A Convolutional Neural Network to reduce bias in facial expression recognition. [View GitHub code.](https://github.com/jasminevasandani/know-your-ai)
