@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Hey, I'm Jasmine (she/her)! I'm a technical project manager who has a background in data science, design strategy, and urbanism. 
-
  - **My Data Science Projects**:
    - A Convolutional Neural Network to reduce bias in facial expression recognition. [View GitHub code.](https://github.com/jasminevasandani/know-your-ai)
    - NLP that detects "fake news." [View GitHub code.](https://github.com/jasminevasandani/NLP_Classification_Model_FakeNews)
@@ -17,7 +13,6 @@ Hey, I'm Jasmine (she/her)! I'm a technical project manager who has a background
    
   - **Contact**:
     - My Portfolio: [jasminev.co/](https://www.jasminev.co/)
-    - Twitter: [@jasmine_data](https://twitter.com/jasmine_data)
     - LinkedIn: [/jasminevasandani](https://www.linkedin.com/in/jasminevasandani/)
     - Email: jasmine.vasandani@gmail.com
 
