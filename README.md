@@ -12,7 +12,6 @@
    - [10 Steps to Teaching Data Science Well](https://towardsdatascience.com/10-steps-to-teaching-data-science-well-322966188323)
    
   - **Contact**:
-    - My Portfolio: [jasminev.co/](https://www.jasminev.co/)
     - LinkedIn: [/jasminevasandani](https://www.linkedin.com/in/jasminevasandani/)
     - Email: jasmine.vasandani@gmail.com
 
