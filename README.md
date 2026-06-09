@@ -4,7 +4,7 @@
    - K-Means clustering to build a WNBA dream team. [View GitHub code.](https://github.com/jasminevasandani/WNBA_Teams_Clustering)
    
  - **Articles I've Written**: 
-   - [Build Your Portfolio With These Data for Good Project Ideas](https://medium.com/data-science/build-your-portfolio-with-these-data-for-good-project-ideas-919254357a66)
+   - [Build Your Portfolio With These Data for Good Project Ideas](https://medium.com/data-science/build-your-portfolio-with-these-data-for-good-project-ideas-919254357a66){:target="_blank"}
    - [#KnowYourAI: Developing a Framework to Address Bias in Facial Expression Recognition](https://medium.com/data-science/knowyourai-developing-a-framework-to-address-bias-in-facial-expression-recognition-b3b8040b0a68)
    - [A Data Science Workflow Canvas to Kickstart Your Projects](https://medium.com/data-science/a-data-science-workflow-canvas-to-kickstart-your-projects-db62556be4d0)
    - [How Machine Learning Made Me Fall in Love with the WNBA](https://medium.com/data-science/how-machine-learning-made-me-fall-in-love-with-the-wnba-278f06eee503)
